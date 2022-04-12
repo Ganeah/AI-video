@@ -1,0 +1,10 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.copy_right_footer{
+    background-color: gray;
+    color: black;
+    bottom: 0;
+}
